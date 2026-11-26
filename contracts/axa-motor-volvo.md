@@ -134,3 +134,8 @@ Wyliczone z różnic cen przy włączaniu/wyłączaniu modułów.
 | Rzeczy przewożone | 14.10 | tak |
 | **Razem** | **1168.20** | |
 Warianty: bez rzeczy przewożonych 1154.10; bez dodatków 1053.40; OC + Teilkasko bez dodatków 779.90; samo OC ok. 586.
+
+## Zasięg i pomoc drogowa (2026-11-26)
+- AXA: OC i AC ważne w Europie i krajach śródziemnomorskich (GIC A2.1); po szkodzie z AC: wyciągnięcie i laweta do warsztatu, powrót z zagranicy do CHF 1000 (C3.1); Mobility Plus (Europa): pomoc przy awarii, holowanie, przechowanie do 250, auto zastępcze do 1000, nocleg.
+- Generali (generali.ch): OC i AC ważne w CH, UE/EOG i Andorze (Polska, Włochy tak); pomoc drogowa 24/7 „można włączyć do każdego AC”; w comparis Minima i Classic bez Pannenschutz.
+- Generali Optima z Pannenschutz (comparis): **1458.10**; OC 708.30 (udział własny 0), Teilkasko 266.80 (0), kolizja 260.50 (1000), ochrona bonusu, rażące niedbalstwo, pomoc drogowa, dowolny warsztat; bez Parkschaden (z nim ok. 1527).
