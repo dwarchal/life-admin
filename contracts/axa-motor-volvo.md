@@ -90,3 +90,19 @@ Dane: XC60 T5 Inscription Geartronic, wyposażenie CHF 6400, TI, 25 000 km/rok (
 | TCS M | 2768.20 | 1399.10 | 1369 |
 | Simpego Car L | brak w wynikach | 825.80 | |
 A = z dodatkami (ochrona bonusu, rażące niedbalstwo, Parkschaden, rzeczy przewożone, NNW), udział własny kolizja CHF 1000; nie każdy produkt ma wszystkie dodatki. C = bez dodatków. * rabat tylko w 1. roku.
+
+## Generali Minima vs AXA (szczegóły z comparis, 2026-11-26)
+| | AXA (obecnie) | Generali Minima |
+|---|---|---|
+| Składka (pełny zakres) | 2210.50 | 1168.20 |
+| OC | 549.66, udział własny 0 | 563.70, **udział własny 1000** |
+| Teilkasko | 573.70, udział własny 0 | 184.50, **udział własny 300** |
+| Kolizja | 571.83, udział własny 1000 | 260.50, udział własny 1000 |
+| Ochrona bonusu | tak | tak |
+| Rażące niedbalstwo | tak | **nie** |
+| Parkschaden | tak (348.20) | **nie** |
+| Rzeczy przewożone | tak (do 2000) | tak |
+| NNW (Insassen-Unfall) | tak (56.60) | **nie** |
+| Warsztat | wskazany przez AXA (+500 udziału, jeśli inny) | **dowolny** |
+| Opłaty | 110.49 | 64.10 |
+| Wariant bez kolizji | ok. 1188 | 779.90 |
