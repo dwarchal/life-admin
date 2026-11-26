@@ -122,3 +122,15 @@ Uwaga: znaczniki przy ofertach w comparis oznaczają BRAKI względem wybranego z
 | Rzeczy przewożone | tak | tak | nie | nie |
 | NNW | tak | nie | nie | tak (62.80) |
 | Warsztat | partnerski AXA | dowolny | partnerski | partnerski |
+
+## Generali Minima: rozbicie na moduły (comparis, 2026-11-26, z opłatami)
+Wyliczone z różnic cen przy włączaniu/wyłączaniu modułów.
+| Moduł | CHF/rok | Można zrezygnować? |
+|---|---|---|
+| OC (udział własny 1000) | ok. 586 | nie (obowiązkowe) |
+| Teilkasko (udział własny 300) | ok. 194 | tak |
+| Kolizja (udział własny 1000) | ok. 274 | tak |
+| Ochrona bonusu | 100.70 | tak |
+| Rzeczy przewożone | 14.10 | tak |
+| **Razem** | **1168.20** | |
+Warianty: bez rzeczy przewożonych 1154.10; bez dodatków 1053.40; OC + Teilkasko bez dodatków 779.90; samo OC ok. 586.
