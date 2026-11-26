@@ -7,7 +7,6 @@ Status: `zostaje` / `do przeglądu` / `anulować`. Daty w formacie RRRR-MM-DD.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Substack | media | | | | | | | | | | | | do przeglądu | |
 | Surfshark | VPN | | | | | | | | | | | | do przeglądu | |
-| AXA | ubezpieczenie | | | | | | | | | | | | do przeglądu | kilka polis? Może przenieść do `contracts/` (jeden plik na polisę) |
 | Sunrise | telekom | | | | | | | | | | | | do przeglądu | komórka / internet / TV? |
 | Siłownia | sport | | | | | | | | | | | | do przeglądu | nazwa klubu? |
 | Człowieku rusz się | ? | | | | | | | | | | | | do przeglądu | co to jest? |
