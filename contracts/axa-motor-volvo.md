@@ -34,3 +34,8 @@ OC CHF 100 mln; ochrona bonusu i rażącego niedbalstwa; AC pełne; Teilkasko (k
 - Po szkodzie: wypowiedzenie do 14 dni od dowiedzenia się o wypłacie (A4.2).
 - Zwrot tablic: ochrona jeszcze 12 mies.; przy przerwie od 14 dni zwrot składki minus opłata (A5).
 - Wyjazd za granicę lub rejestracja auta w innym kraju: ochrona kończy się najpóźniej z końcem roku ubezpieczeniowego (A2.2).
+
+## Dane do porównania ofert (2026-11-26)
+- Prawo jazdy od 2000; brak szkód w ostatnich 5 latach.
+- Przebieg: ok. 145 000 km (2022: 45 000 km), czyli ok. 21 000 km/rok.
+- Auto nocuje w garażu; jeździ tylko Dawid.
