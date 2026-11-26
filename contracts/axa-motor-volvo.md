@@ -186,5 +186,16 @@ Ceny roczne w CHF z opłatami ustawowymi; oferty niewiążące (non-binding, ori
 | Zurich Medium | 887.80 | – | – | – | – | −15% tylko w 1. roku |
 | Helvetia PLUS | 912.00 | – | – | – | – | −10% tylko w 1. roku |
 
-Wniosek: Simpego Car M daje ochronę bonusu prawie w cenie Allianz smart (+35) i jest ok. 51 tańsze od Generali Minima.
-Generali to jedyna opcja z dowolnym warsztatem (free garage choice).
+Link do wyniku: https://en.comparis.ch/autoversicherung/berechnen/result?inputGuid=aeac0d7b-7213-4735-9e04-a65761bfddd4
+
+Franszyza częściowego AC (Teilkasko) wszędzie 300.
+
+Wnioski:
+- **Simpego Car M** wygląda najlepiej:
+  - ochrona bonusu (po szkodzie składka nie rośnie) za tylko +35 względem Allianz smart,
+  - ok. 51 taniej niż Generali Minima,
+  - z rażącym niedbalstwem (gross negligence) ok. 758.
+- **Allianz smart** to najniższa cena (694.60), ale bez żadnych dodatków.
+- **Generali** tylko jeśli zależy na własnym warsztacie (free garage choice); pozostałe wymagają warsztatu wskazanego przez ubezpieczyciela (partner garage).
+- Zurich i Helvetia są droższe, a rabat obowiązuje tylko w 1. roku.
+- Ceny orientacyjne; wiążąca jest dopiero oferta ubezpieczyciela.
