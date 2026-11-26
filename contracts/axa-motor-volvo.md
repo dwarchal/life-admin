@@ -39,3 +39,36 @@ OC CHF 100 mln; ochrona bonusu i rażącego niedbalstwa; AC pełne; Teilkasko (k
 - Prawo jazdy od 2000; brak szkód w ostatnich 5 latach.
 - Przebieg: ok. 145 000 km (2022: 45 000 km), czyli ok. 21 000 km/rok.
 - Auto nocuje w garażu; jeździ tylko Dawid.
+
+## Porównanie ofert, comparis.ch (2026-11-26, start 2027-01-01)
+Dane: XC60 T5 Inscription Geartronic, wyposażenie CHF 6400, TI, 25 000 km/rok (realnie ok. 21 000; suwak ma skok co 5000), garaż, kierowca: Dawid, prawo jazdy 01.01.2000 (dzień i miesiąc przybliżone), pozwolenie B, bez szkód. Bonus z AXA (30%) comparis mógł nie uwzględnić 1:1; ceny orientacyjne, „Rabatt nur im 1. Jahr” = rabat tylko w 1. roku.
+
+**Wariant C: OC + Teilkasko (bez kolizji), udział własny Teilkasko CHF 0**
+| Ubezpieczyciel / produkt | CHF/rok |
+|---|---|
+| Simpego Car L | 825.80 |
+| Zurich Medium | 924.80* |
+| Generali Classic | 958.30 |
+| Zurich Large | 980.00* |
+| Helvetia PLUS | 1054.00* |
+| Smile clever | 1077.20 |
+| (z udziałem własnym) Simpego Car M | 721.20 |
+| AXA dziś, te same części (OC + Teilkasko + opłaty) | ok. 1180 |
+
+**Wariant A: OC + Vollkasko (udział własny CHF 1000) + ochrona bonusu, rażące niedbalstwo, Parkschaden (bez limitu), rzeczy przewożone, NNW**
+| Ubezpieczyciel / produkt | CHF/rok | Uwagi |
+|---|---|---|
+| TCS M | 2768.20 | jedyny z pełną zgodnością zakresu |
+| Generali Minima | 1168.20 | brak części dodatków, udział własny |
+| Helvetia economy | 1430.40* | wszystkie dodatki, udział własny |
+| Zurich Small | 1436.20* | brak części dodatków |
+| Generali Classic | 1513.60 | brak części dodatków |
+| TCS S | 1673.80 | wszystkie dodatki, udział własny |
+| AXA 2027 | 2210.50 | obecna umowa |
+\* rabat tylko w 1. roku
+
+## Zniżki w AXA
+- Program AXA dla pracowników UBS (axa.ch/en/partner/ubs): **20% na autoubezpieczenie** (także OC prywatne, podróże, Hausrat). Do sprawdzenia: czy dotyczy istniejących umów i osób na gardening leave.
+- Reparaturbonus: już jest.
+- Wyższy udział własny, rezygnacja z Parkschaden (CHF 348) lub z kolizji (CHF 572).
+- Safe Driver Bonus i DrivePartner: nie dotyczy (tylko do 26 lat / już niedostępny).
