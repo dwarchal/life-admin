@@ -186,7 +186,9 @@ Ceny roczne w CHF z opłatami ustawowymi; oferty niewiążące (non-binding, ori
 | Zurich Medium | 887.80 | – | – | – | – | −15% tylko w 1. roku |
 | Helvetia PLUS | 912.00 | – | – | – | – | −10% tylko w 1. roku |
 
-Link do wyniku: https://en.comparis.ch/autoversicherung/berechnen/result?inputGuid=aeac0d7b-7213-4735-9e04-a65761bfddd4
+Linki do wyników comparis:
+- OC + częściowe AC (Liability + partial casco): https://en.comparis.ch/autoversicherung/berechnen/result?inputGuid=aeac0d7b-7213-4735-9e04-a65761bfddd4
+- OC + pełne AC (Liability + full casco): https://en.comparis.ch/autoversicherung/berechnen/result?inputGuid=b5af4a17-a863-4b00-b873-dee6a679f456
 
 Franszyza częściowego AC (Teilkasko) wszędzie 300.
 
