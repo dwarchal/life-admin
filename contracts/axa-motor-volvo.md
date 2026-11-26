@@ -60,10 +60,10 @@ Dane: XC60 T5 Inscription Geartronic, wyposażenie CHF 6400, TI, 25 000 km/rok (
 |---|---|---|
 | TCS M | 2768.20 | jedyny z pełną zgodnością zakresu |
 | Generali Minima | 1168.20 | brak części dodatków, udział własny |
-| Helvetia economy | 1430.40* | wszystkie dodatki, udział własny |
+| Helvetia economy | 1430.40* | BEZ dodatków (korekta 2026-11-26), udział własny 500/500/2000 |
 | Zurich Small | 1436.20* | brak części dodatków |
 | Generali Classic | 1513.60 | brak części dodatków |
-| TCS S | 1673.80 | wszystkie dodatki, udział własny |
+| TCS S | 1673.80 | najpewniej bez dodatków (znaczniki w comparis = braki), udział własny |
 | AXA 2027 | 2210.50 | obecna umowa |
 \* rabat tylko w 1. roku
 
@@ -106,3 +106,19 @@ A = z dodatkami (ochrona bonusu, rażące niedbalstwo, Parkschaden, rzeczy przew
 | Warsztat | wskazany przez AXA (+500 udziału, jeśli inny) | **dowolny** |
 | Opłaty | 110.49 | 64.10 |
 | Wariant bez kolizji | ok. 1188 | 779.90 |
+
+## Cztery oferty: pełny zakres (comparis, 2026-11-26)
+Uwaga: znaczniki przy ofertach w comparis oznaczają BRAKI względem wybranego zakresu (wcześniej błędnie odczytane jako „wszystkie dodatki”).
+| | AXA | Generali Minima | Helvetia economy | Zurich Small |
+|---|---|---|---|---|
+| Składka 1. rok | 2210.50 | 1168.20 | 1430.40 (−10% tylko 1. rok) | 1436.20 (−15% tylko 1. rok) |
+| Składka od 2. roku (ok.) | 2210.50 | 1168 | 1589 | 1690 |
+| OC: składka / udział własny | 549.66 / 0 | 563.70 / 1000 | 449.90 / 500 | 542.00 / 1000 |
+| Teilkasko: składka / udział własny | 573.70 / 0 | 184.50 / 300 | w pakiecie / 500 | 337.60 / 300 |
+| Kolizja: składka / udział własny | 571.83 / 1000 | 260.50 / 1000 | 905.10 / 2000 | 420.60 / 2000 |
+| Ochrona bonusu | tak | tak | nie | tak (brak systemu malus) |
+| Rażące niedbalstwo | tak | nie | nie | tak |
+| Parkschaden | tak | nie | nie | nie |
+| Rzeczy przewożone | tak | tak | nie | nie |
+| NNW | tak | nie | nie | tak (62.80) |
+| Warsztat | partnerski AXA | dowolny | partnerski | partnerski |
