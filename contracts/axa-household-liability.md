@@ -13,3 +13,7 @@
 | Płatność | rocznie, eBill (faktura zwykle w sierpniu) |
 | Forma wypowiedzenia | pisemnie lub w formie tekstowej (e-mail), patrz README zasad niżej |
 | Skan | (link do Google Drive) |
+
+## Historia
+- 2025-08-12: list od AXA o podwyżce składki („adeguamento del premio”), uzasadnionej wzrostem kosztów szkód. Nowa składka na fakturze rocznej (eBill). Okno na wypowiedzenie z powodu tej podwyżki już minęło.
+- Doradca (competenza): IGC Insurance Global Consulting Sagl, Cadenazzo.
