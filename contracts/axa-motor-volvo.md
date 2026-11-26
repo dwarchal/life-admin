@@ -72,3 +72,21 @@ Dane: XC60 T5 Inscription Geartronic, wyposażenie CHF 6400, TI, 25 000 km/rok (
 - Reparaturbonus: już jest.
 - Wyższy udział własny, rezygnacja z Parkschaden (CHF 348) lub z kolizji (CHF 572).
 - Safe Driver Bonus i DrivePartner: nie dotyczy (tylko do 26 lat / już niedostępny).
+
+## Zestawienie: pełny zakres (A) vs bez kolizji (C), comparis 2026-11-26
+| Ubezpieczyciel / produkt | A: pełny | C: bez kolizji | Różnica A−C |
+|---|---|---|---|
+| AXA (obecna) | 2210.50 | ok. 1188 (OC + Teilkasko + opłaty) | ok. 1023 |
+| Generali Minima | 1168.20 | 779.90 | 388 |
+| Generali Classic | 1513.60 | 958.30 | 555 |
+| Generali Optima | 1526.80 | 1074.40 | 452 |
+| Helvetia economy | 1430.40* | 892.20* | 538 |
+| Helvetia PLUS | 1949.20* | 1054.00* | 895 |
+| Zurich Small | 1436.20* | 887.80* | 548 |
+| Zurich Medium | 1568.60* | 924.80* | 644 |
+| Smile budget | 1666.60 | 942.60 | 724 |
+| Smile clever | 2206.40 | 1077.20 | 1129 |
+| TCS S | 1673.80 | 1204.10 | 470 |
+| TCS M | 2768.20 | 1399.10 | 1369 |
+| Simpego Car L | brak w wynikach | 825.80 | |
+A = z dodatkami (ochrona bonusu, rażące niedbalstwo, Parkschaden, rzeczy przewożone, NNW), udział własny kolizja CHF 1000; nie każdy produkt ma wszystkie dodatki. C = bez dodatków. * rabat tylko w 1. roku.
