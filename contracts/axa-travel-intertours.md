@@ -1,5 +1,7 @@
 # AXA: ubezpieczenie podróżne INTERTOURS (Travel insurance)
 
+**Status: WYPOWIEDZIANE na 2027-02-28** (formularz AXA i e-mail do IGC, 2026-11-26). Czekamy na pisemne potwierdzenie od AXA.
+
 Źródła: polisa z 2018-03-22, GIP INTERTOURS 08.2006, warunki dodatkowe (SC) 01.2018, faktury 2024 do 2026, list z 2026-01-13.
 
 | Pole | Wartość |
@@ -25,3 +27,4 @@
 ## Historia
 - 2024-03-27: monit o zapłatę.
 - 2026-01-13: podwyżka składki (+19%).
+- 2026-11-26: wypowiedzenie przez formularz AXA (14:37, ID 481ee049-5c49-4588-836d-6f151b0d8cb4) i e-mailem do IGC.
