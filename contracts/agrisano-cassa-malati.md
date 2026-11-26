@@ -6,7 +6,7 @@
 | Model | AGRI-smart (najpierw aplikacja Medgate), wyceniony w 10.2025 na CHF 1099.70 (do potwierdzenia, za jaki okres i kogo) |
 | Ubezpieczeni | Dawid, Barbara, Lena, Igor |
 | Nr ubezpieczonego (Dawid) | na odwrocie karty („N° di membro”) |
-| Portal „La mia Agrisano” | konto jeszcze niezałożone; Portal-ID przychodzi listem |
+| Portal „La mia Agrisano” | zarejestrowany 2026-11-26 (e-mail potwierdzony); Portal-ID przyjdzie listem w ciągu kilku dni |
 | Kontakt | agrisano@agriticino.ch (U. Meier, Cresciano), szybko odpowiada |
 | Do sprawdzenia | składki 2027, franczyzy, czy wypadki są zawieszone (sistiert) |
 
