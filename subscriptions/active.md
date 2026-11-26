@@ -7,3 +7,9 @@ Status: `zostaje` / `do przeglądu` / `anulować`. Daty w formacie RRRR-MM-DD.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Substack | media | | | | | | | | | | | | do przeglądu | |
 | Surfshark | VPN | | | | | | | | | | | | do przeglądu | |
+| AXA | ubezpieczenie | | | | | | | | | | | | do przeglądu | kilka polis? Może przenieść do `contracts/` (jeden plik na polisę) |
+| Sunrise | telekom | | | | | | | | | | | | do przeglądu | komórka / internet / TV? |
+| Siłownia | sport | | | | | | | | | | | | do przeglądu | nazwa klubu? |
+| Człowieku rusz się | ? | | | | | | | | | | | | do przeglądu | co to jest? |
+| Winieta (CH) | transport | | CHF | rocznie | | | | | | | | | do przeglądu | bez wypowiedzenia, kupowana co roku; papierowa czy e-winieta? |
+| Abonament SBB | transport | | CHF | | | | | | | | | | do przeglądu | rodzaj (GA / metà-prezzo / regionalny)? Czy odnawia się automatycznie? |
