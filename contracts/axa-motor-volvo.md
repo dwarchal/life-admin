@@ -170,3 +170,21 @@ Warianty: bez rzeczy przewożonych 1154.10; bez dodatków 1053.40; OC + Teilkask
 | Allianz Suisse smart | 866.40 | ? | ? | ? | ? | niesprawdzone |
 | Generali Classic | 1014.00 | ? | ? | tak | dowolny | najtańsza Generali z rażącym niedbalstwem |
 | (Generali Minima, dla porównania) | 779.90 | 1000 | 300 | nie | dowolny | bez rażącego niedbalstwa |
+
+## Porównanie OC + Teilkasko z wyniku Dawida (comparis 2026-11-26, franszyza TK 300, bez dodatków)
+
+Ceny roczne w CHF z opłatami ustawowymi; oferty niewiążące (non-binding, orientacyjne).
+
+| Oferta | Cena | OC (franszyza) | TK | Ochrona bonusu | Warsztat | Uwagi |
+|---|---|---|---|---|---|---|
+| Allianz smart | 694.60 | 334.30 (1000) | 320.90 | nie | partnerski | najtańsza |
+| Allianz premium | 732.10 | 369.70 (500) | 320.90 | nie | partnerski | |
+| Simpego Car M | 729.90 | 353.30 (1000) | 335.30 | tak (brak malusa) | partnerski | wypowiedzenie 24 h przed końcem; rażące niedbalstwo za ok. +28 (758.10) |
+| Simpego Car L | 761.80 | 383.40 (500) | 335.30 | tak (brak malusa) | partnerski | wypowiedzenie 24 h przed końcem |
+| Generali Minima | 781.20 | 563.70 (1000) | 172.30 | nie | dowolny | |
+| Generali Classic | 842.90 | 594.20 (500) | 200.30 | nie | dowolny | |
+| Zurich Medium | 887.80 | – | – | – | – | −15% tylko w 1. roku |
+| Helvetia PLUS | 912.00 | – | – | – | – | −10% tylko w 1. roku |
+
+Wniosek: Simpego Car M daje ochronę bonusu prawie w cenie Allianz smart (+35) i jest ok. 51 tańsze od Generali Minima.
+Generali to jedyna opcja z dowolnym warsztatem (free garage choice).
