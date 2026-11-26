@@ -161,3 +161,12 @@ Warianty: bez rzeczy przewożonych 1154.10; bez dodatków 1053.40; OC + Teilkask
 - Generali (Minima, Classic, Optima): Parkschaden niedostępny bez kolizji.
 - Jedyna oferta OC + Teilkasko + Parkschaden: TCS M, 1735.30.
 - Najtańsza droga do Parkschaden w Generali: Optima z kolizją ok. 1527.
+
+## OC + Teilkasko + rażące niedbalstwo (comparis 2026-11-26)
+| Oferta | CHF/rok | OC udział własny | Teilkasko udział własny | Ochrona bonusu | Warsztat | Uwagi |
+|---|---|---|---|---|---|---|
+| Simpego Car M | 758.10 | 1000 | 300 | tak (brak systemu malus) | partnerski | wypowiedzenie 24h przed końcem umowy |
+| Simpego Car L | 862.70 | 500 | 0 | tak (brak systemu malus) | partnerski | jw. |
+| Allianz Suisse smart | 866.40 | ? | ? | ? | ? | niesprawdzone |
+| Generali Classic | 1014.00 | ? | ? | tak | dowolny | najtańsza Generali z rażącym niedbalstwem |
+| (Generali Minima, dla porównania) | 779.90 | 1000 | 300 | nie | dowolny | bez rażącego niedbalstwa |
