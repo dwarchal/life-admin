@@ -156,3 +156,8 @@ Warianty: bez rzeczy przewożonych 1154.10; bez dodatków 1053.40; OC + Teilkask
 | Rezygnacja z podróży | tak, do 120 000 (udział 200) | nie | tak (świat) |
 | Ograniczenia | ETI tylko dla członków TCS | maks. 3 zdarzenia/rok; bez zgody centrali tylko do 300 | jak Classic |
 | Inne | Centro tecnico Rivera (przed przeglądem od 60, rabaty), porady prawne | kontrola spalin w Rivera, porady prawne 1/rok, Medi24 | |
+
+## Szkody parkingowe przy OC + Teilkasko (comparis 2026-11-26)
+- Generali (Minima, Classic, Optima): Parkschaden niedostępny bez kolizji.
+- Jedyna oferta OC + Teilkasko + Parkschaden: TCS M, 1735.30.
+- Najtańsza droga do Parkschaden w Generali: Optima z kolizją ok. 1527.
