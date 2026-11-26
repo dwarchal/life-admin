@@ -144,3 +144,15 @@ Warianty: bez rzeczy przewożonych 1154.10; bez dodatków 1053.40; OC + Teilkask
 - ACS Classic: CHF 98/rok, pomoc drogowa w całej Europie, dla domowników i wszystkich aut zarejestrowanych w CH, którymi kierują. ACS Classic & Travel: CHF 291 (plus annulacja i ochrona podróży na świecie).
 - TCS członkostwo z pomocą drogową: CHF 96/rok (osoba), tylko CH/LI. Za granicą potrzebny TCS ETI Schutzbrief (Paar/Familie Europa Standard: CHF 124/rok; annulacja do 120 000, udział 200; assistance osób; pomoc dla auta w Europie; ochrona prawna w podróży).
 - Włochy: pomoc ACI 803 116 (z zagranicznej komórki 800 116 800); na autostradzie: kolumny SOS, holuje tylko autoryzowana pomoc.
+
+## TCS vs ACS: zakres i ceny (sprawdzone 2026-11-26)
+| | TCS rodzina + ETI Europa Standard | ACS Classic | ACS Classic & Travel |
+|---|---|---|---|
+| Cena/rok | 142 (członkostwo rodzinne z pomocą drogową) + 124 (ETI para/rodzina Europa) = ok. 266 | 98 (1. rok online; potem wg sekcji) | 291 |
+| Osoby | rodzina zarejestrowana w TCS (dzieci do 25 l.) | wszyscy w gospodarstwie | wszyscy w gospodarstwie |
+| Pomoc w CH | własne patrole TCS (8/10 napraw na miejscu), transport do wybranego warsztatu, holowanie do 500 | Allianz Assistance; auto zastępcze do 5 dni/500, łącznie dodatkowe koszty do 1000 | jak Classic |
+| Pomoc za granicą | ETI: holowanie, części, hotel, auto zastępcze, powrót do 3000, sprowadzenie auta do wartości rynkowej, przechowanie do 250 | Europa: holowanie bez limitu, wyciągnięcie do 2000, dodatkowe koszty do 3000, sprowadzenie auta do jego wartości | jak Classic |
+| Kradzież/wypadek | tak (ETI) | tak (zdarzenia AC: kolizja, kradzież, wandalizm…) | tak |
+| Rezygnacja z podróży | tak, do 120 000 (udział 200) | nie | tak (świat) |
+| Ograniczenia | ETI tylko dla członków TCS | maks. 3 zdarzenia/rok; bez zgody centrali tylko do 300 | jak Classic |
+| Inne | Centro tecnico Rivera (przed przeglądem od 60, rabaty), porady prawne | kontrola spalin w Rivera, porady prawne 1/rok, Medi24 | |
